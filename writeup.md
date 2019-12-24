@@ -24,10 +24,10 @@ The goals / steps of this project are the following:
 [gray]: ./outputs/gray.png "Grayscaling"
 [local_hist]: ./outputs/local_hist.png "Local Histogram Equalization"
 [sign_0]: ./outputs/0.png "Traffic Sign 0"
-[sign_17]: ./outputs/0.png "Traffic Sign 17"
-[sign_24]: ./outputs/0.png "Traffic Sign 24"
-[sign_28]: ./outputs/0.png "Traffic Sign 28"
-[sign_40]: ./outputs/0.png "Traffic Sign 40"
+[sign_17]: ./outputs/17.png "Traffic Sign 17"
+[sign_24]: ./outputs/24.png "Traffic Sign 24"
+[sign_28]: ./outputs/28.png "Traffic Sign 28"
+[sign_40]: ./outputs/40.png "Traffic Sign 40"
 
 
 ## Rubric Points
